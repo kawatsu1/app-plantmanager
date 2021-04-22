@@ -142,7 +142,7 @@ export function PlantSelect() {
                         ? <ActivityIndicator color={colors.green} />
                         : <></>
                     }
-                    />git
+                    />
             </View>
         </View>
     )
