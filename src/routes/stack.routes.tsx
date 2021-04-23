@@ -7,7 +7,6 @@ import { Confirmation } from '../pages/Confirmation';
 import { PlantSave } from '../pages/PlantSave';
 import { MyPlants } from '../pages/MyPlants';
 import AuthRoutes from './tab.routes'
-
 import colors from '../styles/colors';
 const stackRoutes = createStackNavigator();
 
